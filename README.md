@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Tamara Koliada </h1>
-<h3 align="center">A passionate Data Scientist and Open Source contributor  </h3>
+<h1 align="center">Hi 👋, I'm Abdel Aziz Mfossa </h1>
+<h3 align="center">A passionate UX/UI Designer, Web Developer and Open Source contributor  </h3>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
@@ -33,24 +33,24 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/></p>
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/tomkaX?tab=repositories)
+- 👨‍💻 All of my projects are available  [here](https://github.com/AbdelMfossa?tab=repositories)
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **tomacolyada@gmail.com**
+- 📫 How to reach me **abdelemfossa@gmail.com** | **abdel.mfossa@facsciences-uy1.cm**
 
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=tomkax&show_icons=true" alt="tomkaX" />
-  <img  align="right" src="https://github.com/tomkaX/tomkaX/blob/master/gifs/3aM.gif" width="230">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelMfossa&show_icons=true" alt="tomkaX" />
+  <img  align="right" src="https://github.com/AbdelMfossa/AbdelMfossa/blob/master/gifs/3aM.gif" width="230">
  </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/tomakoliada/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tomakoliada/" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/AbdelMfossa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/AbdelMfossa/" height="20" width="20" /></a>
   <a href="https://www.facebook.com/tomkka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/tomkka" height="20" width="20" /></a>
   <a href="https://www.instagram.com/tomkamk/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tomkamk/" height="20" width="20" /></a>
- <a href="https://twitter.com/T0MKA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/T0MKA" height="20" width="20" /></a>
+ <a href="https://twitter.com/AbdelMfossa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/AbdelMfossa" height="20" width="20" /></a>
 
 </p>
 
