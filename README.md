@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="II" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/></p>
+  <img src="https://www.gstatic.com/devrel-devsite/prod/vf8bcd170103a60a9457e3a7682d3f70251c619395c6349d20b56cd2a80761a19/firebase/images/touchicon-180.png" alt="python" width="20" height="20"/></p>
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/AbdelMfossa?tab=repositories)
 
