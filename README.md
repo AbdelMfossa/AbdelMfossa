@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/AbdelMfossa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/AbdelMfossa/" height="20" width="20" /></a>
-   <a href="https://www.facebook.com/abdelaziz_mfossanjoya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/abdelaziz_mfossanjoya" height="20" width="20" /></a>
-   <a href="https://www.instagram.com/abdel_mfossa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/abdel_mfossa/" height="20" width="20" /></a>
-  <a href="https://twitter.com/AbdelMfossa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/AbdelMfossa" height="20" width="20" /></a>
+ <a href="https://www.linkedin.com/in/AbdelMfossa/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/AbdelMfossa/" height="20" width="20" /></a>
+   <a href="https://www.facebook.com/abdelaziz.mfossanjoya" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/abdelaziz.mfossanjoya" height="20" width="20" /></a>
+   <a href="https://www.instagram.com/abdel_mfossa/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/abdel_mfossa/" height="20" width="20" /></a>
+  <a href="https://twitter.com/AbdelMfossa" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/AbdelMfossa" height="20" width="20" /></a>
 
 </p>
 
